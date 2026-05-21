@@ -1,0 +1,13 @@
+pip install customtkinter
+pip install pyttsx3
+pip install SpeechRecognition
+pip install pyaudio
+pip install wikipedia
+pip install pyautogui
+pip install opencv-python
+pip install face_recognition
+pip install pillow
+pip install openai
+pip install pvporcupine
+pip install pyaudio
+pip install edge-tts
